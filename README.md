@@ -24,7 +24,7 @@ For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](h
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/reshamas/handbook/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](hhttps://github.com/WHO-Collaboratory/collaboratory-handbook/graphs/contributors).
 
 ## Credits
 
