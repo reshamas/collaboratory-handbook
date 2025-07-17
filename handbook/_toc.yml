@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Community Member Access
+    chapters:
+    - file: content/new-users/signup
+    - file: content/new-users/access-issues
+    sections:
+    - file: content/new-users/signup/mfa
+  - caption: Discourse-specific Questions
+    chapters:
+    - file: content/discourse
+  - caption: Supplemental Info
+    chapters:
+    - file: content/contribute
+    - file: content/contact_us
