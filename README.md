@@ -29,3 +29,54 @@ We welcome and recognize all contributions. You can see a list of current contri
 ## Credits
 
 This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
+
+## Returning Contributors
+
+#### 1. Go to where the repo is stored on your local computer:  
+
+Example:  
+```bash
+▶ pwd                                                                                      
+/Users/reshamas/rs_repos/collaboratory-handbook
+(base)
+```
+
+2. Reminder: create a new branch for pull requests in lieu of submitting pull requests to the `main` branch:  
+Example:  
+```bash
+~/rs_repos/collaboratory-handbook  main ✔                                                   3d1h  
+▶ git checkout -b rs-cm-faqs                                                                
+Switched to a new branch 'rs-cm-faqs'
+(base) 
+~/rs_repos/collaboratory-handbook  rs-cm-faqs ✔ 
+```
+
+3.  Reminder: ensure you are in the correct directory to build and test your jupyterbook.
+Example:  
+```bash
+▶ cd handbook                                                                             
+(base) 
+rs_repos/collaboratory-handbook  rs-cm-faqs ✗                                    3d1h ⚑  
+▶ pwd                                                                                     
+/Users/reshamas/rs_repos/collaboratory-handbook
+(base) 
+rs_repos/collaboratory-handbook  rs-cm-faqs ✗                                    3d1h ⚑  
+▶             
+```
+
+4. [Build your jupyterbook locally](https://jupyterbook.org/en/stable/start/build.html#aside-source-vs-build-files)
+
+```bash
+jupyter-book build --all mybookname/
+```
+or
+```bash
+jupyter-book build mybookname/
+```
+
+5. Go to the browser and see the build. The link will be provided in your terminal
+
+Example:  
+[my local browser link](file:///Users/reshamas/rs_repos/collaboratory-handbook/handbook/_build/html/index.html)            
+
+
