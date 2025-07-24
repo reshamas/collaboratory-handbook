@@ -10,7 +10,7 @@ parts:
     - file: content/new-users/access-issues
     sections:
     - file: content/new-users/signup/mfa
-  - caption: Discourse-specific Questions
+  - caption: Community Moderators
     chapters:
     - file: content/discourse
   - caption: Supplemental Info
