@@ -6,5 +6,8 @@ You can find the Collaboratory at:  [collab-forum.who.int](https://collab-forum.
 
 Some of our current communities of practice include: [Epiparameters](https://who-collaboratory.github.io/collaboratory-epiparameter-community/#/), Influenza, Mpox, [PEI Innovation Forum](https://pandemichub.who.int/news-room/innovation-forum), Dengue, and more.
 
-```{tableofcontents}
-```
+## Resources
+
+### Acronyms
+
+- CoP: Community of Practice

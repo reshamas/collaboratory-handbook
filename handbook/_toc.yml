@@ -10,9 +10,10 @@ parts:
     - file: content/new-users/access-issues
     sections:
     - file: content/new-users/signup/mfa
-  - caption: Community Moderators
+  - caption: Moderators
     chapters:
-    - file: content/discourse
+    - file: content/moderators/new_communities
+    - file: content/moderators/discourse
   - caption: Supplemental Info
     chapters:
     - file: content/contribute
