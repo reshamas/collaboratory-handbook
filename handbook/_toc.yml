@@ -8,6 +8,7 @@ parts:
     chapters:
     - file: content/new-users/signup
     - file: content/new-users/access-issues
+    - file: content/new-users/faqs-users
     sections:
     - file: content/new-users/signup/mfa
   - caption: Moderators
