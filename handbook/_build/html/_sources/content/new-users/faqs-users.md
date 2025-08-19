@@ -16,12 +16,12 @@ This is a request to merge my two Collaboratory profiles.
 
 **Collaboratory Profile A:**  
 - Name: xxx
-- Profile: https://collab-forum.who.int/forum/u/user-name1/summary
+- Profile: https://collaboratory.who.int/forum/u/user-name1/summary
 - Email: address1@domain1.com
  
 **Collaboratory Profile B:**    
 - Name: xxx
-- Profile: https://collab-forum.who.int/forum/u/user-name2/summary
+- Profile: https://collaboratory.who.int/forum/u/user-name2/summary
 - Email: address2@domain2.com
 
 Preferred email:  xxx

@@ -2,7 +2,7 @@
 
 ## Signing up for the first time
 
-Sign up for the Collaboratory here: [collab-forum.who.int](https://collab-forum.who.int/)
+Sign up for the Collaboratory here: [collaboratory.who.int](https://collaboratory.who.int/)
 
 ```{image} ../../static/screenshots/collab-signup.png
 :alt: log in web page asking for username and password
