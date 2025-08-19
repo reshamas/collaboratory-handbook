@@ -16,7 +16,7 @@ Browser: Microsoft Edge
 
 ## Cannot view my community of practice
 
-**Q: I am able to log into the Collaboratory (https://collab-forum.who.int/) and see the homepage. But, I cannot see the specific Community of Practice I would like to join.**  
+**Q: I am able to log into the Collaboratory (https://collaboratory.who.int/) and see the homepage. But, I cannot see the specific Community of Practice I would like to join.**  
 
 That means you need to be added to the group. {ref}`contact_us` to let a community moderator know.
 

@@ -27,7 +27,7 @@ If you would like to add a flair (small Community of Practice (CoP) icon next to
 
 **Step 1:** Go to your account - 
 
-example: https://collab-forum.who.int/forum/u/reshamas/preferences/account
+example: https://collaboratory.who.int/forum/u/reshamas/preferences/account
 
 **Step 2:** Scroll down to "Flair" and you should be able to pick your CoP icon.
 
